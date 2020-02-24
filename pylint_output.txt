@@ -1,0 +1,8 @@
+************* Module remote_ssh
+remote_ssh.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+remote_ssh.py:18:0: C0103: Constant name "logger" doesn't conform to UPPER_CASE naming style (invalid-name)
+remote_ssh.py:75:12: W0150: return statement in finally block may swallow exception (lost-exception)
+
+------------------------------------------------------------------
+Your code has been rated at 9.61/10 (previous run: 9.22/10, +0.39)
+
